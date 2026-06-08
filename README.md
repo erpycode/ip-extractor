@@ -3,7 +3,10 @@
 Extract, clean, filter, and export IP addresses from scanner outputs, logs, and CSV files directly in your browser.
 =======
 # IP Extractor
+
 [🇮🇷 فارسی (Persian)](README_FA.md)
+
+
 A lightweight and fully client-side IP extraction tool built with pure HTML, CSS, and JavaScript.
 
 This tool helps you extract IP addresses from scanner outputs, logs, and text files without uploading anything to a server.
